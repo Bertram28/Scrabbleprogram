@@ -1,2 +1,2 @@
 # Scrabbleprogram
-Scrabbleprogram med Marius Bertram og Anders
+Scrabbleprogram med Marius Bertram og Andreas 
