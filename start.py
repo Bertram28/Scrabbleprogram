@@ -8,6 +8,9 @@ class ScrabbleFrame(gui.MainFrame):
 	def close_func( self, event ):
 		self.Close()
 
+	def afslut(self, event ):
+		self.Close()
+
 app = wx.App(False)
 frame = ScrabbleFrame(None)
 frame.Show(True)
